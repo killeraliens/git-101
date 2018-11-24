@@ -1,0 +1,28 @@
+body {
+	font-family: Arial;
+
+}
+
+
+h1 {
+	font-family: 'UnifrakturMaguntia', cursive;
+	font-size: 34px;
+}
+
+h2 {
+	font-size: 22px;
+	font-weight: bold;
+}
+
+#logo {
+	height: 100px;
+	width: 100px;
+}
+
+#container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	flex-direction: column;
+}
